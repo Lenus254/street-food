@@ -165,4 +165,42 @@ span{
          
          }
           span{color: black}
-        
+          .image{
+            top: 0px;
+            left: 0px;
+         }
+         .image1{
+            width: 320px;
+            height: 300px;
+            position: absolute;
+            margin-left: 210px;
+            left: 0px;
+         }
+         .image11{
+            width: 320px;
+            height: 300px;
+            position: relative;
+            margin-top: 110px;
+            margin-left: -120px;
+            display: flex;
+         }
+         .juice{
+            background-color: #C9ECB5;
+            
+         }
+         .flex{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+         }
+         strong{
+            color: green;
+            font-size: 30px;
+         }
+         #green{ text-align: center;
+         padding-top: 100px;
+         }
+         .talign>h4{
+            font-size: 15px;
+            padding-left: 20px;
+                
