@@ -36,6 +36,9 @@ span{
   }
   #button{
      border-radius: 30px;
+     border: none;
+   color: white;
+   background-color: green;
   }
   #logo{
       width: 20px;
