@@ -195,7 +195,7 @@ span{
          }
          strong{
             color: green;
-            font-size: 30px;
+            font-size: 28px;
          }
          #green{ text-align: center;
          padding-top: 100px;
@@ -256,7 +256,7 @@ span{
 .column5{
    position: relative;
    float: right;
-   bottom: 290px;
+   bottom: 300px;
 }
 button{
    background-color: #6CB840;
