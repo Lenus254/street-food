@@ -1,0 +1,40 @@
+span{
+    color: rgb(224, 123, 28);
+  }
+  ul{
+    list-style-type:none;
+    margin-left: 110px;
+    padding: 10px;
+    overflow: hidden;
+    text-align: center;
+  
+  }
+  li{
+     float: left;
+     text-align: center;
+     padding: 30px;
+  }
+  li a{
+     color: black;
+     padding: 10px;
+     text-align: left;
+     display: inline-block;
+     text-decoration: none;
+  
+  }
+  nav{
+     float: center;
+  }
+  img{
+     height: 100px;
+     width: 150px;
+  }
+  .align{
+     display: flex;
+     text-align: left;
+     color: black;
+  }
+  #button{
+     border-radius: 30px;
+  }
+  
