@@ -203,4 +203,62 @@ span{
          .talign>h4{
             font-size: 15px;
             padding-left: 20px;
-                
+         }
+         .images{flex-basis: 40%;}
+#gcolor{
+   color: green;
+}
+.contactus{
+   padding-top: 20px;
+   padding-bottom: 50px;
+   background-color: #FFD77C;
+}
+.contactus>h2{
+   text-align: center;
+}
+.contactus>p{
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.form{
+   text-align: center;
+}
+#email,#send{
+   border-radius: 30px;
+}
+#send{
+   text-align: center;
+   width: 100px;
+}
+.footer{
+   background-color:  #C9ECB5;
+}
+
+.column1{
+      float: left;
+      padding: 10px 10px 20px 10px;
+}
+.column1>p{
+   margin-left: -100px;
+}
+.column2{
+   position: relative;
+   left: 85px;
+   top: 90px;
+   font-size: 25px;
+}
+.column4{
+   position: relative;
+   left: 1000px;
+   font-size: 25px;
+   font-weight: normal;
+}
+.column5{
+   position: relative;
+   float: right;
+   bottom: 300px;
+}
+button{
+   background-color: #6CB840;
+   color: white;
+}
