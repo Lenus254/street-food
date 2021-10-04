@@ -42,7 +42,7 @@ Follow the livelink below to access the web page
 
 MIT License
 
-Copyright (c) [2019] [Albert Byrone]
+Copyright (c) [2020] [linus]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
